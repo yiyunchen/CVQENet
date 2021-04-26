@@ -1,5 +1,5 @@
 Test Code for CVQENet: CVQENet: Deformable Convolution-based Compressed Video Quality Enhancement Network, which took the 8th place in Track1 of the NTIRE 2021 Challenge on Quality Enhancement of Compressed Video.
-More challenge details can be seen in https://github.com/RenYang-home/NTIRE21_VEnh . 
+More challenge details can be seen in https://github.com/RenYang-home/NTIRE21_VEnh
 
 Environment:
 pytorch:1.2
